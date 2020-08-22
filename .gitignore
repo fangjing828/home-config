@@ -193,3 +193,6 @@ Servers
 META-INF
 *.versionsBackup
 target
+ohmyzsh/
+.zsh-plugins/
+.zsh-themes/
