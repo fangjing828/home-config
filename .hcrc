@@ -1,0 +1,1 @@
+export PATH=$PATH:~/.m2/maven/bin
